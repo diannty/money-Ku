@@ -1,6 +1,9 @@
 # money-Ku
+![LOGIN](https://user-images.githubusercontent.com/101880835/236680630-ab28742b-6bd5-441f-ada1-83eb6a381984.png)
 
 MENU LOGIN 
+
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
@@ -223,8 +226,11 @@ android:background="@drawable/bg3">
 
 
 
+![REGISTER](https://user-images.githubusercontent.com/101880835/236680666-0b7ec272-06dd-4e11-b152-e35bcff7cb97.png)
 
 MENU REGISTER
+
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
